@@ -1,0 +1,188 @@
+[
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/ABruxa.jpg",
+        "trilha": "https://www.youtube.com/embed/iQXmlf3Sefg",
+        "titulo": "A Bruxa",
+        "descricao": "Vida crista no interior da Inglaterra na decada de 1630...",
+        "genero": "Terror",
+        "ano": 2015,
+        "duracao": 93,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/AlicePaisDasMaravilhas.jpg",
+        "trilha": "https://www.youtube.com/embed/8v9uPgfwlG0",
+        "titulo": "Alice no Pais das Maravilhas",
+        "descricao": "A aventura de Alice no mundo escondido do Pais das Maravilhas...",
+        "genero": "Fantasia",
+        "ano": 2010,
+        "duracao": 113,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/BladeRunner2049.jpg",
+        "trilha": "https://www.youtube.com/embed/gCcx85zbxz4",
+        "titulo": "Blade Runner 2049",
+        "descricao": "Universo distopico onde os robos vivem em sociedade e pessoas sao cacadas...",
+        "genero": "Ficcao Cientifica",
+        "ano": 2017,
+        "duracao": 163,
+        "faixa": 18
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/ClubeDaLuta.jpg",
+        "trilha": "https://www.youtube.com/embed/BdJKm16Co6M",
+        "titulo": "Clube da Luta",
+        "descricao": "A primeira regra do clube da luta e nao falar sobre o clube da luta...",
+        "genero": "Drama",
+        "ano": 1999,
+        "duracao": 139,
+        "faixa": 18
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Coraline.jpg",
+        "trilha": "https://www.youtube.com/embed/sMWkod9LRVM",
+        "titulo": "Coraline",
+        "descricao": "Coraline descobre um buraco onde e levada a um universo totalmente diferente do que vive...",
+        "genero": "Drama",
+        "ano": 2009,
+        "duracao": 100,
+        "faixa": 0
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/DeVoltaParaFuturo.jpg",
+        "trilha": "https://www.youtube.com/embed/WRrCVyT09ow",
+        "titulo": "De Volta Para o Futuro",
+        "descricao": "Imagina se voce pudesse voltar no tempo para visitar o passado...",
+        "genero": "Ficcao Cientifica",
+        "ano": 1985,
+        "duracao": 116,
+        "faixa": 14
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/DonnieDarko.jpg",
+        "trilha": "https://www.youtube.com/embed/bzLn8sYeM9o",
+        "titulo": "Donnie Darko",
+        "descricao": "Se o mundo tivesse um tempo para acaba e tudo o que fizesse nao teria nenhum efeito...",
+        "genero": "Drama",
+        "ano": 2000,
+        "duracao": 113,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Frankenweenie.jpg",
+        "trilha": "https://www.youtube.com/embed/DmZAqjuNUa4",
+        "titulo": "Frankenweenie",
+        "descricao": "Caso o seu cachorrinho tenha voltado a vida depois de um experimento cientifico...",
+        "genero": "Terror",
+        "ano": 2012,
+        "duracao": 87,
+        "faixa": 10
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Hacker.jpg",
+        "trilha": "https://www.youtube.com/embed/WIUE045p0BA",
+        "titulo": "Hacker",
+        "descricao": "A China esta por detras de todas as invasoes hackers no mundo contemporeneo...",
+        "genero": "Acao",
+        "ano": 2015,
+        "duracao": 133,
+        "faixa": 14
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Inception.jpg",
+        "trilha": "https://www.youtube.com/embed/R_VX0e0PX90",
+        "titulo": "A Origem",
+        "descricao": "Se os sonhos fizessem parte do mundo real e alterasse as acoes do mundo...",
+        "genero": "Acao",
+        "ano": 2010,
+        "duracao": 148,
+        "faixa": 14
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Interestelar.jpg",
+        "trilha": "https://www.youtube.com/embed/i6avfCqKcQo",
+        "titulo": "Interestelar",
+        "descricao": "A viagem espacial que os humanos sao obrigados a fazer que acaba em viagem no tempo...",
+        "genero": "Ficcao Cientifica",
+        "ano": 2014,
+        "duracao": 169,
+        "faixa": 10
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/LivroEli.jpg",
+        "trilha": "https://www.youtube.com/embed/t3qJj_ljctE",
+        "titulo": "O Livro de Eli",
+        "descricao": "Um unico livro e capaz de mostrar toda a verdade em um livro distopico...",
+        "genero": "Drama",
+        "ano": 2010,
+        "duracao": 98,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Matrix.jpg",
+        "trilha": "https://www.youtube.com/embed/9ix7TUGVYIo",
+        "titulo": "Matrix 1",
+        "descricao": "Todos os seres humanos vivem em uma simulacao sem saber, mas uma pessoa sabe...",
+        "genero": "Ficcao Cientifica",
+        "ano": 1999,
+        "duracao": 135,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Profissional.jpg",
+        "trilha": "https://www.youtube.com/embed/aNQqoExfQsg",
+        "titulo": "O Profissional",
+        "descricao": "Apos trajedias seguidas na vida de uma crianca e um assassino de alugel as coisas comecam a se unir...",
+        "genero": "Drama",
+        "ano": 1994,
+        "duracao": 113,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/Synchronicity.jpg",
+        "trilha": "https://www.youtube.com/embed/E1el06Ic5Ts",
+        "titulo": "Synchronicity",
+        "descricao": "O tempo e o que rege o sentido e se o regimento fossem feito por pessoas...",
+        "genero": "Ficcao Cientifica",
+        "ano": 2015,
+        "duracao": 101,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/TelefonePreto.jpg",
+        "trilha": "https://www.youtube.com/embed/dCAbPQnFAU4",
+        "titulo": "O Telefone Preto",
+        "descricao": "Criancas sao raptadas e a bricandadeira com o telefone e a unica maneira de viver...",
+        "genero": "Terror",
+        "ano": 2021,
+        "duracao": 114,
+        "faixa": 16
+    },
+
+    {
+        "capa": "https://raw.githubusercontent.com/SuperGeeksConteudo/ExpertWeb1/main/proj07/proj07c/UmLugarSilencioso.jpg",
+        "trilha": "https://www.youtube.com/embed/tH-dZY_6-b0",
+        "titulo": "Um Lugar Silencioso 1",
+        "descricao": "Criaturas que cairam sobre a terra matam tudo o que produz som em sua frente...",
+        "genero": "Terror",
+        "ano": 2018,
+        "duracao": 90,
+        "faixa": 14
+    }
+]
