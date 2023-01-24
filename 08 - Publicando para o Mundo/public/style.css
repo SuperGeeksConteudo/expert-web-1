@@ -1,0 +1,32 @@
+* {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 12pt;
+    text-align: center;
+}
+
+body {
+    align-items: center;
+    background: #24292e;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+}
+
+main {
+    background: #2f363d;
+    color: #fff;
+    letter-spacing: 1px;
+    max-width: 400px;
+    padding: 32px;
+}
+
+a {
+    color: #0066ff;
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+div:not(:last-child) {
+    margin-bottom: 16px;
+}
